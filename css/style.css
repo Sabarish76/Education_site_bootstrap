@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+
+  body {
+    overflow-x: hidden;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+html
+{
+    scroll-behavior: smooth;
+}
+  header .nav_content {
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+
+  .img-s {
+    position: relative;
+    top: 55px;
+    height: 100vh !important;
+  }
+
+  .navbar-i {
+    padding-left: 50px;
+  }
+
+  .navbar-h {
+    padding-left: 20px;
+  }
+
+  .navbar-i ul li {
+    padding: 0px 40px 0px 40px;
+  }
+
+  .course_content {
+    font-family: 'Josefin Sans', sans-serif;
+    height: cover;
+  }
+  .icon
+  {
+    color: red;
+    font-size: 25px;
+  }
+
+  .img-server
+  {
+      height: 370px;  
+  }
+  .service_content
+  {
+    padding-top: 50px;
+  }
+  .about_content
+{
+  padding-top: 50px;
+}
+footer{
+  height: cover;
+  width: 100%;
+  /* color: white; */
+  background: rgb(33, 32, 32);
+  font-family: 'Josefin Sans', sans-serif;
+}
+.footer_navbar h2{
+  padding-top: 20px;
+}
+.footer_navbar ul
+{
+  list-style: none;
+}
+.footer_navbar ul li a
+{
+  padding-top: 50px;
+  line-height: 55px;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: white;
+}
+.icon1
+  {
+    font-size: 20px;
+  }
+  .img-server1
+  {
+      height: 270px; 
+  }
+  
